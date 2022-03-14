@@ -1,0 +1,130 @@
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" href="Trip tips logo.png">
+        <title>Trip Tips</title>
+        
+        <!-- <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Cookie&family=Poppins:wght@700&family=Quicksand:wght@500&display=swap" rel="stylesheet"> -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap" rel="stylesheet">
+        
+        <link rel="stylesheet" href="../CSS/city.css">
+        <script src="https://kit.fontawesome.com/008b69c89d.js" crossorigin="anonymous"></script>
+        
+    </head>
+    <body>
+        <a href="home.html"><button id="home" title="Go to home"><i class="fa-solid fa-house"></i></button></a>
+        <header>
+            <div class="city-name">LONDON</div>
+            <div class="widget">
+                <div class="clock" > 
+                    <div id="clock"> 04 : 39</div>
+                    <div class="date" id="date">
+                        Thu, 10 Mar
+                    </div>
+                </div>
+                <div class="weather">
+                    <div style="display: inline;" ><i id="icon" class="fa-solid fa-cloud-sun"></i></div>
+                    <div style="display: inline;" id="temp"> 15</div> &deg;C <br>
+                    <div class="weather-state"id="weather">
+                        Cloudy
+                    </div> 
+                </div>
+            </div>
+        </header>
+        <section class="popular-places">
+            <div class="content">
+                <h3 class="heading">Popular Places</h3>
+                <div class="slideshow-container">
+
+                    <div class="mySlides fade">
+                    <img class="placeImg" src="places/img1.jpg" style="width:100%">
+                    <div class="text">Caption Text</div>
+                    </div>
+                
+                    <div class="mySlides fade">
+                    <img class="placeImg" src="places/img2.jpg" style="width:100%">
+                    <div class="text">Caption Two</div>
+                    </div>
+                
+                    <div class="mySlides fade">
+                    <img class="placeImg" src="places/img3.jpg" style="width:100%">
+                    <div class="text">Caption Three</div>
+                    </div>
+                
+                    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+                    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+                </div>
+                <br>
+            
+                <div style="text-align:center">
+                    <span class="dot" onclick="currentSlide(1)"></span>
+                    <span class="dot" onclick="currentSlide(2)"></span>
+                    <span class="dot" onclick="currentSlide(3)"></span>
+                </div>
+            </div>
+        </section>
+        <section class="popular-food">
+            <div class="content">
+                <h2 class="heading white-heading">Traditional Food</h2>
+                <div class="content">
+                    <div class="food">
+                        <img class="img-food" src="food/fish-and-chips_400x300.jpg" alt="">
+                        <h4 class="dish">Fish and Chips</h4>
+                    </div>
+                    <div class="food" >
+                        <img class="img-food" src="food/roast-dinner_400x287.jpg" alt="">
+                        <h4 class="dish">Sunday Roast</h4>
+                    </div>
+                    <div class="food" style="padding-right: 0;">
+                        <img class="img-food" src="food/sausages-and-mash_400x300.jpg" alt="">
+                        <h4 class="dish">Sausage and Mash</h4>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="tips">
+            <div class="content">
+                <h2 class="heading">Tips</h2>
+                <ul class="tips-list">
+                    <li class="tip">
+                   Buy a London Pass 
+                    </li>
+                    <li class="tip">
+                        Get an Oyster Card
+                    </li>
+                    <li class="tip">
+                        Bring Some Comfortable Walking Shoes (and Walk as Much as Possible)
+                    </li>
+                    <li class="tip">
+                        Skip the Hop on Hop off Buses
+                    </li>
+                    <li class="tip">
+                        Eat at a Street Food Market or Two
+                    </li>
+                </ul>
+                </div>
+            </div>
+        </section>
+        <section class="booking">
+            <div class="content">
+                <h2 class="heading white-heading">Booking</h2>
+                <div class="booking-content">
+                    <a href="https://www.booking.com"><img class="booking-icons" src="../Images/booking/booking.png" alt=""></a>
+                    <a href="https://www.trivago.com"><img class="booking-icons" src="../Images/booking/trivago.png" alt=""></a>
+                    <a href="https://www.airbnb.com"><img class="booking-icons" src="../Images/booking/airbnb.png" alt=""></a>
+                    <a href="https://www.uber.com"><img class="booking-icons" src="../Images/booking/uber.png" alt=""></a>
+                </div>
+            </div>
+
+        </section>
+        <script src="../Js/city.js"></script>
+        <script src="../Js/datetime-weather.js"></script>
+    </body>
+</html>

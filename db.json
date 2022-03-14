@@ -1,0 +1,46 @@
+{"cities":[
+    {
+"name":"cairo",
+"places":["The Pyramids","The Egyptian Museum","Khan el-Khalili"],
+"placesimg":["https://images.unsplash.com/photo-1600520611035-84157ad4084d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80","https://images.pexels.com/photos/4353815/pexels-photo-4353815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940https://images.pexels.com/photos/4353815/pexels-photo-4353815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940","https://d3rr2gvhjw0wwy.cloudfront.net/uploads/mandators/41668/cms/569321/940x500-1-50-4f9299dd25ebe92809d1e837b13122ff.jpg"],
+"food":["Koshary","Falafel","Shawarma"],
+"foodimg":["https://media-cdn.tripadvisor.com/media/photo-s/0a/d5/62/f8/koshary-misr-palace.jpg","https://images.unsplash.com/photo-1593001872095-7d5b3868fb1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80","https://cdn.pixabay.com/photo/2021/03/02/17/34/skewer-6063312_960_720.jpg"],
+"tips":["Experience the pyramids at night","Avoid Cairo during the high season","Book trips with a travel agency","Enjoy a felucca ride","Ascend the Cairo Tower during sunset"]
+    },
+    
+    {
+        "name":"london",
+        "places":["Big Ben","The British Museum","London Eye"],
+        "placesimg":["https://images.unsplash.com/photo-1500380804539-4e1e8c1e7118?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80","https://images.unsplash.com/photo-1577729507926-78897cc4de05?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80","https://images.unsplash.com/photo-1587659901518-7020d4413085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"],
+        "food":["English Breakfast","Fish and Chips","Shepherd's Pie"],
+        "foodimg":["https://images.unsplash.com/photo-1563636247809-c76f873625ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80","https://images.unsplash.com/photo-1579208030886-b937da0925dc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80","https://www.thespruceeats.com/thmb/XYKmJi7OPGHZlE1SByXxsFMM03w=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/meatloaf-shepherds-pie-480689-hero-01-c22a02674ec049a09c37bc30c5f86697.jpg"],
+        "tips":["Get an Oyster Card ","Eat at a Street Food Market or Two","Avoid Bank Holidays and School Breaks","Ride the London Eye","Relax in Hyde Park and Kensington Gardens"]
+    },
+
+    {
+        "name":"paris",
+        "places":["Eiffel Tower","Notre Dame Cathedral","Louvre Museum"],
+        "placesimg":["https://images.unsplash.com/photo-1431274172761-fca41d930114?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80","https://images.unsplash.com/photo-1555397227-cbcbc55768de?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80","https://images.unsplash.com/photo-1567942585146-33d62b775db0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1309&q=80"],
+        "food":["Croissants","Macarons","Onion soup"],
+        "foodimg":["https://images.pexels.com/photos/2135/food-france-morning-breakfast.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940","https://images.pexels.com/photos/7440175/pexels-photo-7440175.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.unsplash.com/photo-1549203438-a7696aed4dac?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=746&q=80"],
+        "tips":["Stay in Central Location","Don’t Be Afraid of Using Metro"," Take a Day Trip from Paris to Explore its Surroundings"," Learn a few words of French","Try some French cuisine"]
+    },
+
+    {
+        "name":"tokyo",
+        "places":["The Imperial Palace","Sensō-ji Temple","Tokyo National Museum"],
+        "placesimg":["https://images.unsplash.com/photo-1578383512110-3ad10e150e7d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80","https://images.unsplash.com/photo-1580167227251-be70f01b0c51?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80","https://www.japan-guide.com/g18/3054_tokyo_01.jpg"],
+        "food":["Sushi","Ramen","Tempura"],
+        "foodimg":["https://images.unsplash.com/photo-1579871494447-9811cf80d66c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80","https://images.unsplash.com/photo-1623341214825-9f4f963727da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80","https://images.unsplash.com/photo-1593357849627-cbbc9fda6b05?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"],
+        "tips":["Don't assume everyone speaks English in Tokyo","People are very quiet on subways and trains in Japan. ","Japan has a tropical climate and it rains often.","'Nomihodai' is Japanese for “all you can drink","Do not wear your shoes or slippers on tatami mats"]
+    },
+
+    {
+        "name":"new york",
+        "places":["Statue of Liberty","Central Park","Empire State Building"],
+        "placesimg":["https://images.unsplash.com/photo-1562961857-b1ba8f9dbd5f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1181&q=80","https://images.unsplash.com/photo-1623593419606-7f9c8c22d736?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80","https://images.unsplash.com/photo-1555109307-f7d9da25c244?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80"],
+        "food":["Bagel","Cheesecake","Buffalo Wings"],
+        "foodimg":["https://images.unsplash.com/photo-1585445490387-f47934b73b54?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80","https://images.unsplash.com/photo-1621955511667-e2c316e4575d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80","https://images.unsplash.com/photo-1624726175512-19b9baf9fbd1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"],
+        "tips":["NYC is Best Navigated by Public Transportation","See Times Square, but Don’t eat in Times Square"," Pizza, Bagels and Egg Sandwiches are Life","Sidewalks Have Their Own Traffic Rules","Diners are Best for Breakfast and Lunch Food"]
+    }
+]}
